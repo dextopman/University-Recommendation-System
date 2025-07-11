@@ -4,7 +4,7 @@ Building a comprehensive platform where students can search for their favorite u
 
 ### Dataset and code
 
-the dataset and google colab jupyter notebook is located in *Recommendation-System* folder. 
+the dataset is *World_University_Rankings_2025.csv* and the Colab Jupyter notebook code file is *university_recommendation.ipynb*.
 
 ### The data extracted
 
