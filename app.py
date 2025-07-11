@@ -15,8 +15,8 @@ def load_model(file_path):
     cosine_sim = joblib.load(file_path + "/" + "cosine_similarity.pkl")
     return cosine_sim
 
-data, dataframe = load_data(r"F:\UNIVERSITY_RECOMMENDATION_SYSTEM\new")
-cosine_sim = load_model(r"F:\UNIVERSITY_RECOMMENDATION_SYSTEM\new")
+data, dataframe = load_data(r"F:\UNIVERSITY_RECOMMENDATION_SYSTEM\data")
+cosine_sim = load_model(r"F:\UNIVERSITY_RECOMMENDATION_SYSTEM\data")
 
 indices = pd.Series(data.index, index=data['Institution_Name']).drop_duplicates()
 
