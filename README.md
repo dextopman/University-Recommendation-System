@@ -1,6 +1,6 @@
 # University-Recommendation-System
 
-Building a comprehensive platform where students can search for their favorite universities and also get recommendation of other similar top ranking institutes for admissions in the top ranking institutes in the world. 
+Building a comprehensive platform where students can search for their favorite universities and also get recommendation of other similar top ranking institutes for admissions in the top ranking institutions in the world. 
 
 ### Dataset and code
 
