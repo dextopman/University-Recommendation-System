@@ -8,7 +8,7 @@ the dataset is *World_University_Rankings_2025.csv* and the Colab Jupyter notebo
 
 ### The data extracted
 
-the extracted data is available on *data* folder.
+the extracted data is available on *data* directory.
 
 ### The recomender webapp
 
