@@ -88,5 +88,5 @@ st.markdown(
     </style>
     """,
     unsafe_allow_html=True
-)
+) 
 st.markdown("This app is built with ❤️ using Streamlit.")
