@@ -14,6 +14,9 @@ the extracted data is available on *data* directory.
 
 The final webapp is the _app.py_ file which contains the application code.
 
+**UPDATE** : I have finally deployed my app on streamlit community cloud. You 
+can now check my data dashboard app [here](https://institutesfound.streamlit.app/)
+
 
 ## Requirements:
 
